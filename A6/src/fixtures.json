@@ -1,0 +1,32 @@
+{
+    "singapore":{
+        "name": "Singapore",
+        "description":"Sunny",
+        "high": "90°F",
+        "low": "70°F",
+        "img": "sun.png",
+        "route":"/weather/singapore",
+        "bg": "sunny.jpg",
+        "current": "76°F"
+    },
+    "newyorkcity":{
+        "name": "New York City",
+        "description": "Snow",
+        "high": "30°F",
+        "low": "15°F",
+        "img": "clouds-snow.png",
+        "route":"/weather/nyc",
+        "bg": "snow.jpg",
+        "current": "32°F"
+    },
+    "taipei":{
+        "name": "Taipei",
+        "description": "Rain",
+        "high": "80°F",
+        "low": "60°F",
+        "img": "sun-clouds-rain.png",
+        "route":"/weather/taipei",
+        "bg": "rain.jpg",
+        "current": "74°F"
+    }
+}
